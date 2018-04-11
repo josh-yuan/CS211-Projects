@@ -9,3 +9,6 @@ Also incorporated a Client class for testing.
 
 Update 2: all team member code has been uploaded.  I'll spend some time today 
 with it before I shoot it back to the team for comments.
+
+Update 3: All team member code has been edited to satisfy abtract requirements and 
+tidied up.  Submitting to the team for submission.
